@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Project Name: Packet Sniffer w/ socket module</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Project Name: Monitoring Network Activity</b>
+  - [Packet Sniffer in Python w/ socket module](https://github.com/Tmac81MD/Monitor-Network-Activity/tree/main)
 - <b>Build a SIEM (Azure)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Build a Honeypot (Virtual Box or VMware)</b>
