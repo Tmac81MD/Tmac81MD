@@ -3,9 +3,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Project Name: Monitoring Network Activity</b>
-  - [Packet Sniffer in Python w/ socket module](https://github.com/Tmac81MD/Monitor-Network-Activity/tree/main)
-- <b>Build a SIEM (Azure)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Packet Sniffer in Python w/ socket module](https://github.com/Tmac81MD/Monitor-Network-Activity/tree/Packet-Sniffer)
+  - [Build a keylogger w/ Python Pynput](https://github.com/Tmac81MD/Monitor-Network-Activity/tree/Keylogger) 
+  
+- <b>Incident response procedure</b>
+  - Build a SIEM (Azure)[Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Build a Honeypot (Virtual Box or VMware)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
