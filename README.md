@@ -5,9 +5,10 @@
 - <b>Project Name: Monitoring Network Activity</b>
   - [Packet Sniffer in Python w/ socket module](https://github.com/Tmac81MD/Monitor-Network-Activity/tree/Packet-Sniffer)
   - [Build a keylogger w/ Python Pynput](https://github.com/Tmac81MD/Monitor-Network-Activity/tree/Keylogger)
-  - [Incident response procedure]
+  - [Incident response procedure](https://github.com/Tmac81MD/Monitor-Network-Activity/tree/Ransomware-Incident-Response)
 - <b>Ransomware</b>
-  - 
+  - [Case Study]()
+  - [Cyber Tools Guide](https://github.com/Tmac81MD/Monitor-Network-Activity/tree/Tools-of-the-Trade)
   - Build a SIEM (Azure)[Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Build a Honeypot (Virtual Box or VMware)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
